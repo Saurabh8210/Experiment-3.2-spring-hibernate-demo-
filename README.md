@@ -1,6 +1,6 @@
-# 🧩 Experiment 3.2 – Spring & Hibernate Java Application
+ Experiment 3.2 – Spring & Hibernate Java Application
 
-### 📘 Project Overview
+
 This project demonstrates how to build Java applications using **Spring Framework** and **Hibernate ORM** for:
 - Dependency Injection (DI)
 - CRUD Operations
